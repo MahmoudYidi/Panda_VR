@@ -1,8 +1,0 @@
-prefix=/home/axel/mahmoud_ws/install
-
-Name: jackal_viz
-Description: Description of jackal_viz
-Version: 0.4.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
