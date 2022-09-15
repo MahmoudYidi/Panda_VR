@@ -1,8 +1,0 @@
-prefix=/home/axel/mahmoud_ws/install
-
-Name: jackal_control
-Description: Description of jackal_control
-Version: 0.7.9
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
